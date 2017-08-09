@@ -1,9 +1,9 @@
 {
   "name": "hello-emberjs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Small description for hello-emberjs goes here",
   "license": "MIT",
-  "author": "",
+  "author": "liwenjun",
   "directories": {
     "doc": "doc",
     "test": "tests"
